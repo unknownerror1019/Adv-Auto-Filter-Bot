@@ -5,11 +5,8 @@
 class Translation(object):
     
     START_TEXT = """<b>Hai {}!!</b>
-<i>Am Just A Simple Hand Auto Filter Bot_ Bot For Searching Files From Channel...
-
-Just Sent Any Text I Will Search In All Connected Chat And Reply You With The Message link
-
-You Can Even Connected To 3 Channels At A Time...</i>"""    
+<i>Ada ni e group join chyada @chat_with_gopuzzedit .E group join chytha pine ni Vara group join chyanda athe editing materialum E group kidm eshta patta kuda kudiko kuda nammal unde Any other help contact owner: @GOPUZZ_EDIT02
+💞💞💞💞💞💞💞💞💞💞💞💞💞</i>"""    
     
     HELP_TEXT = """<i><u>Usage Guide</u></i>
 
@@ -30,7 +27,7 @@ Just Send Any Text Will Try To Lookup In Channel And Provide You The Link</i>
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code>Adv Auto Filter Bot</code>
 
-<b>➥ Creator</b> : <b><i><a herf="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a herf="https://t.me/GOPUZZ_EDIT02">GOPUZZ_EDIT02</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
